@@ -1,1 +1,0 @@
-Il main del programma è inserito nel file tesina.m
